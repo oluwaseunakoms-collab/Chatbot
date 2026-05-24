@@ -20,3 +20,6 @@ if-elif statements, loops, functions, and input/output.
 ## How to Run
 `bash
 python chatbot.py
+
+##Author
+Akomolafe Oluwaseun
